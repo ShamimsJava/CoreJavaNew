@@ -10,10 +10,10 @@ public class FieldInitialization {
     Date date = new Date(); // initialize field using explicit values
 
     // in this program I use constructor overloading
-    public FieldInitialization() {
+    public FieldInitialization() {  // default constructor
     }
 
-    public FieldInitialization(int xx, double yy, String zz) {
+    public FieldInitialization(int xx, double yy, String zz) { // parameterized constructor
         x = xx;
         y = yy;
         z = zz;
