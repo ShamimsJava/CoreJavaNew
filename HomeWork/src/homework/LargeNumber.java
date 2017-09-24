@@ -7,6 +7,7 @@ public class LargeNumber {
     public static void main(String[] args) {
         int m;
         int n;
+        
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter the array size: ");
         n = sc.nextInt();
@@ -27,6 +28,7 @@ public class LargeNumber {
 
         System.out.println("The array elements are: ");
         System.out.println("-----------------------");
+        
         for (int x : a) {
             System.out.println(x);
         }
