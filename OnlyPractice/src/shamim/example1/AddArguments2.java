@@ -14,8 +14,9 @@ public class AddArguments2 {
               sum += Integer.parseInt(arg);
           }
             System.out.println("The sum is: "+sum);
-        } catch (Exception e) {
+        } catch (NumberFormatException e) {
             System.err.println("Exception handled.....");
         }
+        System.out.println("Rest of the program...............");
     }
 }
