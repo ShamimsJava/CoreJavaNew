@@ -2,9 +2,9 @@ package cls.comparator;
 
 import java.util.Comparator;
 
-public class NameComp implements Comparator{
+public class NameComp implements Comparator<Student>{
     @Override
-    public int compare(Object obj1, Object obj2){
-        return (((Student)obj1).firstName.compareTo(((Student)obj2).firstName));
+    public int compare(Student obj1, Student obj2){
+        return (obj1.firstName.compareTo(obj2.firstName));
     }
 }
