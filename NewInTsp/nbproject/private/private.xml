@@ -2,15 +2,11 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-<<<<<<< HEAD
-        <group/>
-=======
         <group>
-            <file>file:/D:/Git/CoreJavaNew/NewInTsp/src/cls/comparator/ComparatorTest.java</file>
-            <file>file:/D:/Git/CoreJavaNew/NewInTsp/src/cls/comparator/Student.java</file>
-            <file>file:/D:/Git/CoreJavaNew/NewInTsp/src/cls/comparator/GradeComp.java</file>
-            <file>file:/D:/Git/CoreJavaNew/NewInTsp/src/cls/comparator/NameComp.java</file>
+            <file>file:/D:/Git/CoreJavaNew/NewInTsp/src/cls/generics/GenSetExample.java</file>
+            <file>file:/D:/Git/CoreJavaNew/NewInTsp/src/cls/generics/TestGenerics1.java</file>
+            <file>file:/D:/Git/CoreJavaNew/NewInTsp/src/cls/generics/AutoboxingGenerics.java</file>
+            <file>file:/D:/Git/CoreJavaNew/NewInTsp/src/cls/generics/MapAcctRepository.java</file>
         </group>
->>>>>>> 57775406ea6ad08822fd0ec9681bd810f0760dbc
     </open-files>
 </project-private>
