@@ -19,12 +19,12 @@ public class CreatingFile {
 
         
         // writing something on file
-//        try (BufferedWriter bw = new BufferedWriter(new FileWriter("E:/Shamim/shihab/sharar/test.txt"))){ 
-//           bw.write("Bangladesh, I love Bangladesh.."); 
-//           bw.newLine();
-//           bw.append("I am Shamim Sarker.");
-//        } catch (Exception e) {
-//        }
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("E:/Shamim/shihab/sharar/test.txt"))){ 
+           bw.write("Bangladesh, I love Bangladesh.."); 
+           bw.newLine();
+           bw.append("I am Shamim Sarker.");
+        } catch (Exception e) {
+        }
         
 // read data from file
 
