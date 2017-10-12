@@ -16,7 +16,7 @@ public class WriteFile {
             PrintWriter out = new PrintWriter(new FileWriter(file));
             String s;
             System.out.println("Enter file text. ");
-            System.out.println("Type Ctrl+d to stop.");
+            System.out.println("Ctrl+z --> Enter to stop.");
             
             while((s = in.readLine()) != null){
                 out.println(s);
