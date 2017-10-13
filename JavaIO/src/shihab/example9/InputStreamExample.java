@@ -8,7 +8,7 @@ public class InputStreamExample {
     public static void main(String[] args) {
         FileInputStream in = null;
         try {
-             in = new FileInputStream("D:/input.txt");
+             in = new FileInputStream("D:/shamim/files.txt");
             int c;
 
             while ((c = in.read()) != -1) {
