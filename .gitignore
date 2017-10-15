@@ -39,5 +39,13 @@
 /StringOperation/build/
 /JavaSerialization/nbproject/private/
 /JavaSerialization/build/
+<<<<<<< HEAD
 /EvidencePreparation/nbproject/private/
 /EvidencePreparation/build/
+=======
+/AB_Sir/nbproject/private/
+/JavaSwing/nbproject/private/
+/JavaSwing/build/
+/LogicalProgram/nbproject/private/
+/LogicalProgram/build/
+>>>>>>> a190a95b142d578a445b2545845b386241d9834f
