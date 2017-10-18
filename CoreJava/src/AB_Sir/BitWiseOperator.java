@@ -3,7 +3,7 @@ package AB_Sir;
 public class BitWiseOperator {
     public static void main(String[] args){
         int a = 60; // 60 = 111100
-        int b = 13; // 13 =   1101
+        int b = 13; // 13 = 001101
         int c;
 
         c = a & b;
